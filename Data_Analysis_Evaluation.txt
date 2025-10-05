@@ -1,0 +1,8 @@
+Feedback From Professor of Data Science UMGC:
+"Your explanations showed a strong grasp of automotive terminology and market dynamics—for example,
+noting the limitations of odometer readings and the relevance of title status and drivetrain configuration.
+You also recognized redundant fields, which reflects your ability to clean and optimize data for analysis...
+Finally, your initiative in suggesting additional questions—such as vehicle turnover time and market supply duration—demonstrates analytical curiosity and strategic thinking.
+These insights go beyond the basic requirements and show your commitment to uncovering actionable intelligence.
+Your work is not only technically sound but also business-relevant, making it a valuable contribution to the company’s marketing and operational planning efforts."
+- Professor Henry Chen
